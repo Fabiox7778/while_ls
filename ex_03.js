@@ -1,5 +1,5 @@
-i = 0;
-result = 0;
+let i = 0;
+let result = 0;
 
 while (result <= 40) {
     result+= i;
